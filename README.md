@@ -3,7 +3,7 @@ meu nome é kemili
 estou estudando no Alura
  estou desenvolvendo a linguagem Java Script
  Uso este Espaço para organizar meus projetos
- ![Yay GIF](https://tenor.com/pt-BR/view/yay-gif-11544202141846534719)
+ ![Yay GIF](https://media1.tenor.com/m/oDU-rygQ-j8AAAAC/yay.gif)
  
  
  
